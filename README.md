@@ -4,7 +4,7 @@
 
 ## Phân loại Gitlab
 
-- Hosted bởi Gitlab
+- Hosted bởi Gitlab (có tính phí). Được sử dụng thử 30 ngày.
 - Hosted và sử dụng bởi tổ chức/ cá nhân/ doanh nghiệp
 
 # Gitlab
@@ -18,4 +18,8 @@ https://gitlab.com/users/sign_up/
 ## Đăng nhập
 
 https://gitlab.com/users/sign_in/
+
+## Cài đặt
+
+https://about.gitlab.com/install/
 
